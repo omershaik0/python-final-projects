@@ -1,6 +1,6 @@
 # Hi, Welcome to my 100 days of Python Code!!!
 
-##[NOTE: This repository is under construction!] During this amazing journey, I have learned a massive amount of tools and technologies, including:
+##[*NOTE: This repository is under construction!*] During this amazing journey, I have learned a massive amount of tools and technologies, including:
 
 
 __Python 3 - the latest version of Python__
